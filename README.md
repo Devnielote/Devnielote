@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Devnielote! 
-- 👨🏻‍💻 Self-teaching programming.
+- 👨🏻‍💻 Self-taught programmer.
 - 🐢 Lately i'm learning about topics that actually means something to my persona.
 - 🥛 The thoughts in my mind, an enigma.
 <!---
