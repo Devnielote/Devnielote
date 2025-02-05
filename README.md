@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Devnielote! 
+# 👋 Hey there, I’m Daniel! 
 - 👨🏻‍💻 Self-taught programmer and currently studying software engineering at UCNL
 - 🐢 Lately I'm learning about topics that actually means something to my persona.
 - 🥛 The thoughts in my mind, an enigma.
