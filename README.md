@@ -9,7 +9,7 @@ I'm a selft-taught programmer and a Software Engineering student at UCNL, focuse
 
 - [**TODO App**](https://devnielote.github.io/todo-app/) - Clean responsive task management app built with JavaScript
 - [**Tola Coffee Tavern**](https://devnielote.github.io/tola-coffee-tavern/) - Elegant and minimalistic coffee shop landing page
-- [**Quick Watcht**](https://devnielote.github.io/quick-watch/#) - Movie Search app using a public APIs
+- [**Quick Watch**](https://devnielote.github.io/quick-watch/#) - Movie Search app using a public APIs
 - [**Rock Paper Scissors**](https://devnielote.github.io/rock-paper-scissors/) - Version of the classic game, built with TypeScript and TDD
 
 Find more in my [Portfolio Website](In construction)
